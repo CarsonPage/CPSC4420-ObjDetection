@@ -1,3 +1,3 @@
 #Project by Carson Page & Xander Facey
 
-#Developed incrementally by task assigned by our graduate team leader
+#Developed incrementally task-by-task, as assigned by our graduate-student team leader.
