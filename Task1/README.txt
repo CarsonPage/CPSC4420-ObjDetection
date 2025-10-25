@@ -2,12 +2,12 @@
  |            Object Detection with             |
  |           OpenCV + MobileNet-SSD!            |
  |           	                                |
- |	   CPSC 4420 Project: First Task        |
+ |	       CPSC 4420 Project: First Task        |
  |              For Hazim Alzorgan              |
  |                                              |
- |	 	   Project by:                  |
+ |	 	           Project by:                  |
  |       Carson Page (cnpage@clemson.edu)       |
- |	Xander Facey (afacey@clemson.edu)       |
+ |	    Xander Facey (afacey@clemson.edu)       |
 [*]--------------------------------------------[*]
 
 For this task, we needed to deliver Python Code that accomplishes two things:
