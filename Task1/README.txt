@@ -57,5 +57,6 @@ ALTERNATIVELY, you can run "object_detection.exe", which we made using PyInstall
  |       Notes       |
 [*]-----------------[*]
 
+- Steps 2 & 3 of the "compile yourself" section are inlcuded as part of this repo.
 - You can adjust the confidence threshold in the code to control sensitivity.
 - The .exe version does not need to be in the same folder as its dependencies in order to run. The dependencies are packaged with the executable.
